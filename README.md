@@ -1,4 +1,4 @@
-# CVIP_Data_Science Internship Project Repository
+# CVIP Data Science Internship Project Repository
 
 Welcome to my internship project repository! This repository contains the files related to my internship tasks and projects. The tasks are divided into two phases, each consisting of a normal task and a golden task. Here's an overview of the tasks in this repository:
 
